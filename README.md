@@ -1,13 +1,20 @@
-- 👋 Hi, I’m @spcookie
-- 👀 I’m interested in game
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me
+### Hi, 👋 Friend
 
-  ### languge and framwork
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,css,docker,git,gradle,graphql,hibernate,html,idea,js,kafka,linux,md,mysql,nginx,postman,redis,regex,sass,spring,selenium,vscode,vue,py,mongodb,maven,bash&theme=light)
+>  Never compromise. Not even in the face of armageddon.
 
-<p align="center"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=spcookie&theme=cobalt&date_format=%5BY%20%5DM%20j"/></p>
+**I love connecting with different people, I'll be happy to meet you more! : )**
+
+- ✨
+- ❤️
+- 🌱
+
+#### Languages and Frameworks
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,css,graphql,hibernate,html,js,md,mysql,regex,sass,spring,vue,py,bash&theme=light)
+
+#### Tools and Environments
+![My Skills](https://skillicons.dev/icons?i=docker,git,gradle,idea,kafka,linux,nginx,postman,redis,vscode,mongodb,maven&theme=light)
+
+<p align="center"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=spcookie&theme=cobalt&date_format=%5BY%20%5DM%20j&card_width=600"/></p>
 
 <p align="center">
   <img alt="Spcookie's GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=spcookie&count_private=true&show_icons=true&theme=buefy"/>
