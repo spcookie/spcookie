@@ -23,9 +23,8 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/7e98cddc6e5cd745b5de4a017c71f67438600df1.svg "Repobeats analytics image")
 
-<p>
-  <img alt="Readme Card" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=spcookie&show_icons=true&theme=buefy"/>
-</p>
+<img alt="Readme Card" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=live-chat&show_icons=true&theme=buefy"/>
+<img alt="Readme Card" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=live-chat-ui&show_icons=true&theme=buefy"/>
 
 <!---
 spcookie/spcookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
