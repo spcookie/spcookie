@@ -21,10 +21,10 @@
   <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcookie&layout=compact"/>
 </p>
 
-![Alt](https://repobeats.axiom.co/api/embed/7e98cddc6e5cd745b5de4a017c71f67438600df1.svg "Repobeats analytics image")
+<p align="center">
+  <img alt="repobeats" src="https://repobeats.axiom.co/api/embed/7e98cddc6e5cd745b5de4a017c71f67438600df1.svg"/>
+</p>
 
-<span></span>
-<span></span>
 <p align="center">
   <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=live-chat&show_icons=true&theme=buefy"/>
  <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=live-chat-ui&show_icons=true&theme=buefy"/>
