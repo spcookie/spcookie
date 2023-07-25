@@ -17,8 +17,8 @@
 <p align="center"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=spcookie&theme=cobalt&date_format=%5BY%20%5DM%20j&card_width=600"/></p>
 
 <p align="center">
-  <img alt="Spcookie's GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=spcookie&count_private=true&show_icons=true&theme=buefy&line_height=20"/>
-  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcookie&theme=buefy&layout=compact"/>
+  <img alt="Spcookie's GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=spcookie&count_private=true&show_icons=true&theme=buefy&line_height=20&text_bold=true"/>
+  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcookie&theme=buefy&layout=compact&text_bold=true"/>
 </p>
 
 <p align="center">
