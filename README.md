@@ -21,7 +21,7 @@
   <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcookie&layout=compact"/>
 </p>
 
-![Alt](https://repobeats.axiom.co/api/embed/a9d814c037cbe0e2dbbc7918018546c3bec44887.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/7e98cddc6e5cd745b5de4a017c71f67438600df1.svg "Repobeats analytics image")
 
 <p>
   <img alt="Readme Card" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=spcookie&show_icons=true&theme=buefy"/>
