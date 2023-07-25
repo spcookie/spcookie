@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Augenstern-fish
+- 👋 Hi, I’m @spcookie
 - 👀 I’m interested in game
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on 
