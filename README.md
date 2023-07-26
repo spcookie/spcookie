@@ -14,6 +14,10 @@
 #### Tools and Environments
 ![My Skills](https://skillicons.dev/icons?i=docker,git,gradle,idea,kafka,linux,nginx,postman,redis,vscode,mongodb,maven&theme=light)
 
+<p align="center">
+  <img alt="xssch's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=spcookie&layout=compact">
+</p>
+
 <p align="center"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=spcookie&theme=cobalt&date_format=%5BY%20%5DM%20j&card_width=600"/></p>
 
 <p align="center">
@@ -32,10 +36,6 @@
  <a href="https://github.com/spcookie/live-chat-ui">
    <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=live-chat-ui&show_icons=true&theme=buefy"/>
  </a>
-</p>
-
-<p align="center">
-  <img alt="xssch's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=spcookie&layout=compact">
 </p>
 
 <!---
