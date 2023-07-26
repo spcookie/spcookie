@@ -34,6 +34,10 @@
  </a>
 </p>
 
+<p align="center">
+  <img alt="xssch's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=spcookie&layout=compact">
+</p>
+
 <!---
 spcookie/spcookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
