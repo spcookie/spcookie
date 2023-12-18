@@ -22,7 +22,7 @@
 
 <p align="center">
   <img alt="Spcookie's GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=spcookie&show_icons=true&theme=buefy&line_height=20&text_bold=true"/>
-  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcookie&theme=buefy&layout=compact&text_bold=true&?hide=html"/>
+  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcookie&theme=buefy&layout=compact&text_bold=true&hide=html"/>
 </p>
 
 <p align="center">
