@@ -26,16 +26,9 @@
 </p>
 
 <p align="center">
-  <img alt="repobeats" src="https://repobeats.axiom.co/api/embed/7e98cddc6e5cd745b5de4a017c71f67438600df1.svg"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/spcookie/live-chat">
-    <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=live-chat&show_icons=true&theme=buefy"/>    
+    <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=Erii&show_icons=true&theme=buefy"/>    
   </a>
- <a href="https://github.com/spcookie/live-chat-ui">
-   <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=live-chat-ui&show_icons=true&theme=buefy"/>
- </a>
 </p>
 
 <!---
