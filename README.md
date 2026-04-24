@@ -22,8 +22,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/spcookie/live-chat">
+  <a href="https://github.com/spcookie/Erii">
     <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=Erii&show_icons=true&theme=buefy"/>    
+  </a>
+  <a href="https://github.com/spcookie/Mock4k">
+    <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=Mock4k&show_icons=true&theme=buefy"/>    
   </a>
 </p>
 
