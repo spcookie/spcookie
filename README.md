@@ -17,16 +17,16 @@
 <p align="center"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=spcookie&theme=cobalt&date_format=%5BY%20%5DM%20j&card_width=600"/></p>
 
 <p align="center">
-  <img alt="Spcookie's GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=spcookie&show_icons=true&theme=buefy&line_height=20&text_bold=true"/>
-  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcookie&theme=buefy&layout=compact&text_bold=true&hide=html,css"/>
+  <img alt="Spcookie's GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=spcookie&show_icons=true&theme=transparent&line_height=20&text_bold=true"/>
+  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcookie&theme=transparent&layout=compact&text_bold=true&hide=html,css"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/spcookie/Erii">
-    <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=Erii&show_icons=true&theme=buefy"/>    
+    <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=Erii&show_icons=true&theme=transparent"/>    
   </a>
   <a href="https://github.com/spcookie/Mock4k">
-    <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=Mock4k&show_icons=true&theme=buefy"/>    
+    <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=spcookie&repo=Mock4k&show_icons=true&theme=transparent"/>    
   </a>
 </p>
 
